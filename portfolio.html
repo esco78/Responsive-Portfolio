@@ -10,13 +10,19 @@
 
     <title>Portfolio</title>
   </head>
-  <body>
+  <body style="background-color: lightblue;">
 
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="#">Erick Salgado</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
+
+      <!-- Card for brand header-->
+      <div class="card" style="background-color: lightblue;">
+        <a class="navbar-brand" href="#" style="color: white;">Erick Salgado</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+          </button>
+      </div>
+
+      <!-- Links on right side of navbar-->
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="nav navbar-nav ml-auto">
           <li class="nav-item">
@@ -31,6 +37,42 @@
         </ul>
       </div>
     </nav>
+
+    <!-- Main content of webpage-->
+    <section class="container">
+      <div class="row">
+        <div class="col-9">
+          <div class="py-5">
+            <div class="card">
+              <div class="card-body">
+                <h1 class="card-title" style="color:limegreen">Portfolio</h1>
+                  
+                  <div class="row">
+
+                    <div class="col">
+                      <img src="https://picsum.photos/300/300" alt="random image generation">
+                    </div>
+                    <div class="col">
+                      <img src="https://picsum.photos/id/1015/300/300" alt="random image generation">
+                    </div>
+                  </div>
+
+                  <div class="row pt-md-4">
+
+                    <div class="col">
+                      <img src="https://picsum.photos/id/1016/300/300" alt="rig">
+                    </div>
+                    <div class="col">
+                      <img src="https://picsum.photos/id/1018/300/300" alt="rig">
+                    </div>
+                  </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
