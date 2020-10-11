@@ -12,3 +12,6 @@ For this project I created a webpage which incorporates Bootstrap elements in or
 
 ## Usage
 
+- Edit code to understand how webpage changes in response
+- I highly recommend using Bootstrap website in conjunction with scrolling through thhis code
+- Replace my personal information with your own and adjust the code and styling to your needs.
