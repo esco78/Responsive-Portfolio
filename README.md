@@ -15,3 +15,11 @@ For this project I created a webpage which incorporates Bootstrap elements in or
 - Edit code to understand how webpage changes in response
 - I highly recommend using Bootstrap website in conjunction with scrolling through thhis code
 - Replace my personal information with your own and adjust the code and styling to your needs.
+
+## Credits
+
+* Get Bootstrap: https://getbootstrap.com
+* MD Bootstrap: https://mdbootstrap.com
+* HTML Validation: https://validator.w3.org/nu/
+* W3 Schools: https://www.w3schools.com
+* Lorem Picsum: https://picsum.photos
